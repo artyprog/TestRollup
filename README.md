@@ -1,2 +1,3 @@
-# TestRollup
-Fork from https://code.lengstorf.com/learn-rollup-css/
+# Learn Rollup.js
+
+This is an example project to accompany a tutorial on using [Rollup](http://rollupjs.org/).

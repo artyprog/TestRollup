@@ -1,0 +1,41 @@
+{
+  "name": "learn-rollup",
+  "version": "0.0.0",
+  "description": "This is an example project to accompany a tutorial on using Rollup.",
+  "main": "build/js/main.min.js",
+  "scripts": {
+    "dev": "rollup -c --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jlengstorf/learn-rollup.git"
+  },
+  "author": "Jason Lengstorf <jason@lengstorf.com> (@jlengstorf)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jlengstorf/learn-rollup/issues"
+  },
+  "homepage": "https://github.com/jlengstorf/learn-rollup#readme",
+  "devDependencies": {
+    "babel-preset-es2015-rollup": "^3.0.0",
+    "cssnano": "^3.10.0",
+    "livereload": "^0.6.0",
+    "npm-run-all": "^4.0.2",
+    "postcss-cssnext": "^2.9.0",
+    "postcss-nested": "^1.0.0",
+    "postcss-simple-vars": "^3.0.0",
+    "rollup": "^0.41.4",
+    "rollup-plugin-babel": "^2.7.1",
+    "rollup-plugin-commonjs": "^7.0.0",
+    "rollup-plugin-eslint": "^3.0.0",
+    "rollup-plugin-livereload": "^0.4.0",
+    "rollup-plugin-node-resolve": "^2.0.0",
+    "rollup-plugin-postcss": "^0.2.0",
+    "rollup-plugin-replace": "^1.1.1",
+    "rollup-plugin-uglify": "^1.0.1",
+    "rollup-watch": "^3.2.2"
+  },
+  "dependencies": {
+    "debug": "^2.6.1"
+  }
+}

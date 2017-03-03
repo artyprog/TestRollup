@@ -2,8 +2,9 @@
 
 Ce tutorial est basé sur l'article suivant [Tutorial Rollup](https://code.lengstorf.com/learn-rollup-js/).  
 
-# Installation 
+## Installation 
 
+``` sh
 # Cloner le dépôt
 git clone [TestRollup](https://github.com/artyprog/TestRollup.git)
 
@@ -15,5 +16,5 @@ npm install
 
 # Start the watcher
 npm run dev
-
+```
 

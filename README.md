@@ -8,13 +8,13 @@ Ce tutorial est basé sur l'article suivant [Tutorial Rollup](https://code.lengs
 # Cloner le dépôt
 git clone [TestRollup](https://github.com/artyprog/TestRollup.git)
 
-# Move into the repo
+# Se déplacer dans le répertoire d'installation
 cd TestRollup/
 
-# Install dependencies
+# Installer les dépendences
 npm install
 
-# Start the watcher
+# Démarrez l'environnement de dev
 npm run dev
 ```
 

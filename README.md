@@ -1,3 +1,7 @@
-# Learn Rollup.js
+# Tutorial Rollup.js
 
-This is an example project to accompany a tutorial on using [Rollup](http://rollupjs.org/).
+Ce tutorial est basé sur l'article suivant [Rollup](http://rollupjs.org/).  
+
+# Installation  
+
+

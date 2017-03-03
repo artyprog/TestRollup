@@ -21,6 +21,6 @@ npm run dev
 ## Détail
 
 En mode 'dev':
-   - Prise en charge de chaque type de fichiers par les plugins correspondants (lint, babel, postcss....)
-   - Création d'un fichier javascript unique englobant le code et le style
-   - Rechargement automatique du navigateur
+   -- Prise en charge de chaque type de fichiers par les plugins correspondants (lint, babel, postcss....)
+   -- Création d'un fichier javascript unique englobant le code et le style
+   -- Rechargement automatique du navigateur

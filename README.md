@@ -5,6 +5,9 @@ Ce tutorial est basé sur l'article suivant [Tutorial Rollup](https://code.lengs
 ## Installation 
 
 ``` sh
+
+# Installer NodeJS et Git
+
 # Cloner le dépôt
 git clone https://github.com/artyprog/TestRollup.git
 

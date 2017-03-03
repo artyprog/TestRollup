@@ -5,15 +5,15 @@ Ce tutorial est basé sur l'article suivant [Tutorial Rollup](https://code.lengs
 # Installation 
 
 # Cloner le dépôt
-git clone git@github.com:jlengstorf/learn-rollup.git
+git clone [TestRollup](https://github.com/artyprog/TestRollup.git)
 
 # Move into the repo
-cd learn-rollup/
+cd TestRollup/
 
 # Install dependencies
 npm install
 
 # Start the watcher
-npm run watch
+npm run dev
 
 
